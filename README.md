@@ -1,5 +1,5 @@
 # About Me:
-🔭 I am currently working on Analytics and sides Python projects<br>👯 I am looking to collaborate on creative projects<br>🤝 Trying understanding complex Analytics Architectures<br>🌱 I am currently understanding how to upgrade my Python skills<br>💬 Ask me about my side projects<br>🐱 I am a cat person <br>
+🔭 I am currently working on Analytics and side Python projects<br>👯 I am looking to collaborate on creative projects<br>🤝 Trying understanding complex Analytics Architectures<br>🌱 I am currently understanding how to upgrade my Python skills<br>💬 Ask me about my side projects<br>🐱 I am a cat person <br>
 
 
 ## 🌐 Socials:
